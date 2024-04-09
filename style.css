@@ -156,6 +156,33 @@ body {
     border-radius: 4px;
 }
 
+.sopages {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-bottom: 100px;
+
+}
+.sopages .icons1 {
+    max-width: 100px;
+}
+.sopages .title {
+    display: flex;
+    color: rgb(51, 51, 51);
+    align-items: center;
+    justify-content: center;
+}
+.sopages .icons-contener {
+    display: flex;
+    padding: 10px 10px;
+    align-items: center;
+    justify-content: center;
+}
+.sopages .icons-contener img {
+    padding: 0px 10px;
+    margin: 0 10px;
+}
+
 footer {
     position: fixed;
     height: 80px;
